@@ -1,1 +1,1 @@
-![title](Ava/screenshot_Ava.png)
+![screenshot](Ava/screenshot_Ava.png)

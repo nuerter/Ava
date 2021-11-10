@@ -1,1 +1,2 @@
-![screenshot](Ava/screenshot_Ava.png)
+Screen
+![screenshot](Ava/screenshot_Ava.png?raw=true)

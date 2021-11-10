@@ -7,15 +7,15 @@ def line_13():
     return(print(script_ice))
 
 script_meet = "I'm pleased to meet you Ava."
-script_name = "Do you have a name?"
+script_introduction = "Do you have a name?"
 line_0 = input("SESSION 1")
 line_1 = input("'Breaking the ice'")
 line_2 = input("Ava: Hello.")
 line_3 = input(Name + ": Hi.")
 line_4 = input(Name + ": I'm " + Name + ".")
 line_5 = input("Ava: Hello " + Name + ".")
-line_6 = input(Name + ": " + script_name)
-if script_name == str("Do you have a name?"):
+line_6 = input(Name + ": " + script_introduction)
+if script_introduction == str("Do you have a name?"):
     print(input("Ava: Yes, Ava."))
 if script_meet == str("I'm pleased to meet you Basic Python"):
     line_7 = input(Name + ": " + script_meet)
